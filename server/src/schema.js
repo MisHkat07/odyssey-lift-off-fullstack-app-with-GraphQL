@@ -19,7 +19,7 @@ type Track {
 "Author of complete track"
 type Author {
       id:ID!
-      title:String!
+      name:String!
       photo:String
 }
 `;
